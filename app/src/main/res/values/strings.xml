@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Contacts App</string>
+    <string-array name="states">
+        <item>ABBA</item>
+        <item>Adele</item>
+        <item>All Time Low</item>
+        <item>Blink-182</item>
+        <item>Fall Out Boy</item>
+        <item>Lady Gaga</item>
+        <item>LINKIN PARK</item>
+        <item>My Chemical Romance</item>
+        <item>Metallica</item>
+        <item>NSYNC</item>
+        <item>One Direction</item>
+        <item>Paramore</item>
+        <item>Taylor Swift</item>
+        <item>Tool</item>
+        <item>5 Seconds of Summer</item>
+    </string-array>
+</resources>
